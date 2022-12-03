@@ -3,11 +3,12 @@
 
 See [instructions.md](instructions.md) for submission instructions.
 
-# TODO: Replace this with Your Project Title
+# TensorFlow in JavaScript
 
 ## Description
 
-TOD: Replace this with at least a few paragraphs describing your project.
+We are investigating TensorFlow and how the framework uses callback functions to streamline interactions with an API. The project will display several examples of the framework's use, and highlight the specifc use cases of higher order functions. These examples will be presented on a website using NodeJS, JavaScript, HTML, and CSS.
+
 ## Repository Organization
 
 TODO: Replace this with a description of the organization of your repository.
