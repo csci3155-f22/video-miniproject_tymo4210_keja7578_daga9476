@@ -43,5 +43,3 @@ Some example tutorial video/screencasts to consider as you put together your pro
 
 - Baseline: [reduce and fold (in Scala)](https://www.youtube.com/watch?v=bnOTEfNEQzw). This video tutorial is baseline example you can consider as a good target.
 - Reach: [Insertion Sort](https://www.youtube.com/watch?v=DFG-XuyPYUQ). This video tutorial can be considered an example to inspire some additional creativity.
-
-

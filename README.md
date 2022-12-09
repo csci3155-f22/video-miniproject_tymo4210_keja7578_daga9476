@@ -3,24 +3,39 @@
 
 See [instructions.md](instructions.md) for submission instructions.
 
-# TODO: Replace this with Your Project Title
+# TensorFlow in JavaScript
 
 ## Description
 
-TOD: Replace this with at least a few paragraphs describing your project.
+We are investigating TensorFlow and how the framework uses callback functions to streamline interactions with an API. The project will display several examples of the framework's use, and highlight the specifc use cases of higher order functions.
+
 ## Repository Organization
 
-TODO: Replace this with a description of the organization of your repository.
+tensor.ipynb -> Jupyter Notebook with TensorFlow demonstration
+slideSources.md -> Sources used for the project and video
 
 ## Building and Testing Instructions
 
-TODO: Replace with building and testing instructions. Please minimize the number of dependencies and as simple and platform-independent as possible. Consider, for example, using [Docker](https://www.docker.com/).
+Install the relevant extensions to support Jupyter Hub $\newline$
+Install matplotlib $\newline$
+Install tensorflow $\newline$
 
 ## Presentation
+```diff
+- NOTE: SOME OF THE PRESENTATION DOESN'T FOLLOW THE SCRIPT. WE EXPLAINED THE SLIDES AS PART OF OUR SCRIPT, WITHOUT EXPLICIT WRITTEN TEXT.
+```
 
-TODO: Update the following links and remove this line.
 
-- YouTube: https://youtu.be/TODO.
+- YouTube: https://youtu.be/sSvpttPF3is.
 - Script: [script.md](script.md) or [script.pdf](script.pdf).
 - Recording: [recording.mp4](recording.mp4).
 - Slides (if you use them in your recording): [slides.pdf](slides.pdf) and slide sources (e.g., [slides.pptx](slides.pptx) or [slides.key](slides.key)).
+
+## Slide Sources
+IBM Cloud Education. “What Are Neural Networks?” IBM, https://www.ibm.com/cloud/learn/neural-networks. 
+
+Henry, Ian. “Bringing Machine Learning (Tensorflow) to the Enterprise with SAP HANA.” SAP Blogs, SAP Community Blogs, 21 Dec. 2017, https://blogs.sap.com/2017/12/15/bringing-machine-learning-tensorflow-to-the-enterprise-with-sap-hana/. 
+
+“Missinglink.ai/Guides/Neural-Network-Concepts/7-Types-Neural-Network-Activation-Functions-Right SEO Report: Seo Site Checkup.” Missinglink.ai/Guides/Neural-Network-Concepts/7-Types-Neural-Network-Activation-Functions-Right SEO Report | SEO Site Checkup, https://seositecheckup.com/seo-audit/missinglink.ai/guides/neural-network-concepts/7-types-neural-network-activation-functions-right. 
+
+Ozgon, Doga. “Write Your First AI Project in 15 Minutes.” Medium, Becoming Human: Artificial Intelligence Magazine, 19 Sept. 2021, https://becominghuman.ai/write-your-first-ai-project-in-15-minutes-a287ed348e7c. 
