@@ -16,7 +16,9 @@ slideSources.md -> Sources used for the project and video
 
 ## Building and Testing Instructions
 
-TODO: Replace with building and testing instructions. Please minimize the number of dependencies and as simple and platform-independent as possible. Consider, for example, using [Docker](https://www.docker.com/).
+Install the relevant extensions to support Jupyter Hub $\newline$
+Install matplotlib $\newline$
+Install tensorflow $\newline$
 
 ## Presentation
 
