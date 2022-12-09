@@ -7,7 +7,7 @@ See [instructions.md](instructions.md) for submission instructions.
 
 ## Description
 
-We are investigating TensorFlow and how the framework uses callback functions to streamline interactions with an API. The project will display several examples of the framework's use, and highlight the specifc use cases of higher order functions. These examples will be presented on a website using NodeJS, JavaScript, HTML, and CSS.
+We are investigating TensorFlow and how the framework uses callback functions to streamline interactions with an API. The project will display several examples of the framework's use, and highlight the specifc use cases of higher order functions.
 
 ## Repository Organization
 
@@ -21,6 +21,10 @@ Install matplotlib $\newline$
 Install tensorflow $\newline$
 
 ## Presentation
+```diff
+- NOTE: SOME OF THE PRESENTATION DOESN'T FOLLOW THE SCRIPT. WE EXPLAINED THE SLIDES AS PART OF OUR SCRIPT, WITHOUT EXPLICIT WRITTEN TEXT.
+```
+
 
 - YouTube: https://youtu.be/sSvpttPF3is.
 - Script: [script.md](script.md) or [script.pdf](script.pdf).
