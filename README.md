@@ -11,7 +11,7 @@ We are investigating TensorFlow and how the framework uses callback functions to
 
 ## Repository Organization
 
-TODO: Replace this with a description of the organization of your repository.
+tensor.ipynb -> Jupyter Notebook with TensorFlow demonstration
 
 ## Building and Testing Instructions
 
