@@ -12,6 +12,7 @@ We are investigating TensorFlow and how the framework uses callback functions to
 ## Repository Organization
 
 tensor.ipynb -> Jupyter Notebook with TensorFlow demonstration
+slideSources.md -> Sources used for the project and video
 
 ## Building and Testing Instructions
 
